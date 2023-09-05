@@ -71,12 +71,12 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <connections>
-                        <outlet property="ScrollView" destination="WrB-06-Ayj" id="kf8-ut-1q1"/>
                         <outlet property="counterLabel" destination="vBj-OJ-iv9" id="duj-SP-TSj"/>
                         <outlet property="historyView" destination="Ijg-VV-5y3" id="qiH-Xj-wKJ"/>
                         <outlet property="minusButton" destination="fxA-bA-mrt" id="Umg-Or-dRl"/>
                         <outlet property="plusButton" destination="Qsv-W2-vU0" id="DZl-yp-Ahu"/>
                         <outlet property="restartButton" destination="dXi-qJ-J6j" id="7S7-yQ-Tpf"/>
+                        <outlet property="scrollView" destination="WrB-06-Ayj" id="HQp-UC-se4"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
